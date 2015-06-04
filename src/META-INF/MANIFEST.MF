@@ -1,0 +1,4 @@
+Implementation-Title: PlayWAV
+Implementation-Version: 1.0.0 (2005-05-05)
+Implementation-Vendor: No Vendor
+Implementation-URL: http://koti.mbnet.fi/akini/
